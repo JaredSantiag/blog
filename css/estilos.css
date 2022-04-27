@@ -4,13 +4,24 @@ body{
     font-family: "Arial";
 }
 
-#contenedor{
-    margin: 100px;
+#post{
+    margin: 50px;
     padding: 20px;
     border-style: solid;
 }
 
-#contenedor p{
+#post p{
     padding: 10px;
     text-align: left;
+}
+
+#post h2{
+    color: black;
+}
+
+#cabecera{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 10px;
+    height: 70px;
 }
