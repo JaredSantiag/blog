@@ -1,5 +1,16 @@
 body{
-    color: red;
+    color: midnightblue;
     text-align: center;
     font-family: "Arial";
+}
+
+#contenedor{
+    margin: 100px;
+    padding: 20px;
+    border-style: solid;
+}
+
+#contenedor p{
+    padding: 10px;
+    text-align: left;
 }
